@@ -1,0 +1,22 @@
+body{
+    background-color:lightgrey;
+}
+.boxtop{
+    height: 10vh;
+    width: 100%;
+    background-color: gray;
+   }
+.boxmiddle{
+    height:80vh;
+    
+    margin-left:100px;
+    margin-right:100px;
+    background-color: white;
+}
+.boxbottom{
+    height:10vh;
+    margin-left:100px;
+    margin-right:100px;
+    background-color:black;
+    
+}
